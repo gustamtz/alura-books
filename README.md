@@ -1,8 +1,6 @@
 # Alura books 📚
 
-> Repositório criado para as aulas de *mobile-first*, da Alura.
-> 
-Alura books é um site estático, desenvolvido na escola de front-end. No curso, tive contato com as tecnologias:
+Alura books é um site estático focado na metodologia *mobile-first*, desenvolvido na escola de front-end. No curso, tive contato com as tecnologias:
 **HTML, CSS e SwiperJS**. 
 
 <br> 
