@@ -1,4 +1,4 @@
-# Alura books
+# Alura books.
 
 https://user-images.githubusercontent.com/113216494/207204308-db716035-f3d9-4050-a642-77a75d86d0e7.mp4
 
